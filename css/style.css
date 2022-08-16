@@ -27,3 +27,22 @@ body{
 #home-section .inner-home{
     padding-top: 150px;
 }
+
+#home-section .card-form{
+    opacity: 0.75;
+}
+
+#home-section .fas,
+#create-section .fas{
+    background: #FFF;
+    color: #008edc;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+#explore-section .fas, #share-section .fas {
+    border-radius: 5px;
+    color: #FFF;
+    background-color: #333;
+    padding: 5px;
+}
